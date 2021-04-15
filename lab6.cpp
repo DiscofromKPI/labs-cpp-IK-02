@@ -1,4 +1,4 @@
-
+//created by STEPAN, STOPKA, STEPULKA, STEPUSHKA
 #include <iostream>
 #include <string>
 using namespace std;
