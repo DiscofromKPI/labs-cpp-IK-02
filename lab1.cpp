@@ -27,7 +27,7 @@ int main() {
     return 0;
 }
 double input(){
-    double x;
+    double x;//kkk
     do {
         cin >> x;
 
