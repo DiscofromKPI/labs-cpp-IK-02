@@ -26,7 +26,7 @@ int main() {
     }while(getch() != 27);
     return 0;
 }
-double input(){
+double input(){//chort
     double x;
     do {
         cin >> x;
